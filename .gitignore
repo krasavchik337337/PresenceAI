@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# PyCharm
+.idea/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# OS files
+.DS_Store
+Thumbs.db
